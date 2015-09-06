@@ -1,0 +1,30 @@
+{
+  "name": "promise-unwrap",
+  "description": "Angular: Unwrap promises and use them directly on the view, no controller necessary",
+  "main": "./promise-unwrap.min.js",
+  "license": "MIT",
+  "keywords": [
+    "promise",
+    "view",
+    "angular",
+    "unwrap",
+    "resolve"
+  ],
+  "authors": [
+    {
+      "name": "Robert Balicki",
+      "email": "robert.balicki@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbalicki2/promise-unwrap.git"
+  },
+  "dependencies": {
+    "lodash": "~3.10.1",
+    "angular": "~1.4.5"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.5"
+  }
+}
