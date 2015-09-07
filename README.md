@@ -4,7 +4,7 @@
 
 ## What is promise-unwrap?
 
-**promise-unwrap** is an Angular module that exposes directives that let you unwrap promises in your view, without the boilerplate of
+**promise-unwrap** is an Angular module that exposes filters that let you unwrap promises in your view, without the boilerplate of
 
 ```js
 // in my-controller.js
