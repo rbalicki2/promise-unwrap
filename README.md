@@ -54,8 +54,21 @@ Errors fail silently in Angular views, so nothing blows up before the promise re
 
 ## Run Tests
 
-`npm install
-`
+```sh
+npm install
+npm install -g gulp
+gulp test
+```
+
+## Other commands
+
+```sh
+gulp
+gulp lint
+gulp test
+gulp watch
+gulp build
+```
 
 ## Future
 
