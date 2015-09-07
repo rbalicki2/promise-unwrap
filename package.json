@@ -1,6 +1,6 @@
 {
   "name": "promise-unwrap",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Angular: Unwrap promises and use them directly on the view, no controller necessary",
   "keywords": [
     "promise",
