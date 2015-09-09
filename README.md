@@ -14,7 +14,7 @@ myService.asyncOp().then(function(results) {
 });
 ```
 
-Instead, attach someService directly to the controller:
+Instead, attach myService directly to the controller:
 
 ```js
 // in my-controller.js
@@ -32,7 +32,7 @@ Resolve promise will return undefined (which will not render) before the promise
 
 ## How to use
 
-* Include `promise-unwrap.min.js` in your HTML file, or concatenate it to your project's javascript file, etc.
+* Include a script tag bringing in `promise-unwrap.min.js` HTML file, bower install it, or concatenate it to your project's javascript file, etc.
 * Import 'promise-unwrap' in your module.
 
 ```js
